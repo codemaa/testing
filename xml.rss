@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+asdfkajsdlkfjasd
+fasd
+fasd
+f
+asd
+f
+sad
+f
+asd
+f
+asd<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE updateProfile [ 
   <!ENTITY file SYSTEM "file://index.php"> 
   ]><foo>&file;</foo>
